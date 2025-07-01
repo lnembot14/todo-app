@@ -67,3 +67,4 @@ This is a simple and clean **To-Do List web application** built with **Flask**, 
   ```
 
 Created by Laali Nembot as a foundational project to learn Flask, full-stack development, and Git/GitHub workflows
+
